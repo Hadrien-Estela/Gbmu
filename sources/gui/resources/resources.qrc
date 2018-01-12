@@ -1,0 +1,14 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+	<file>load.png</file>
+	<file>play.png</file>
+	<file>pause.png</file>
+	<file>stop.png</file>
+	<file>reset.png</file>
+	<file>debug.png</file>
+	<file>speed.png</file>
+	<file>logo.jpg</file>
+	<file>soundOn.png</file>
+	<file>soundOff.png</file>
+</qresource>
+</RCC>
